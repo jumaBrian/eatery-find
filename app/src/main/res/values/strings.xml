@@ -3,4 +3,6 @@
     <string name="findButton">Discover</string>
     <string name="appTitle">KIBANDASKI</string>
     <string name="kibandaskiImage">background image</string>
+    <string name="zipCode">Enter your area ZIP code</string>
+    <string name="LocationTextView">Restaurants near</string>
 </resources>
