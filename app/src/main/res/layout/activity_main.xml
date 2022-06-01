@@ -19,7 +19,7 @@
         app:srcCompat="@drawable/kibandaski" />
 
     <Button
-        android:id="@+id/button"
+        android:id="@+id/DiscoverEateryButton"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:text="@string/findButton"
@@ -41,7 +41,7 @@
         android:textColor="@color/purple_500"
         android:textSize="34sp"
         android:textStyle="bold"
-        app:layout_constraintBottom_toTopOf="@+id/button"
+        app:layout_constraintBottom_toTopOf="@+id/DiscoverEateryButton"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.673"
         app:layout_constraintStart_toStartOf="parent"
